@@ -1,0 +1,17 @@
+﻿cl : 命令行  warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  RVOSimulator.cpp
+  Obstacle.cpp
+  KdTree.cpp
+  Agent.cpp
+  正在生成代码...
+E:\visual_studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1573,5): warning MSB8012: TargetPath(C:\Users\86155\Desktop\avoCode\RVO2\Debug\RVO.lib) 与 Library 的 OutputFile 属性值(C:\Users\86155\Desktop\avoCode\RVO2\Debug\RVOD.lib)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Lib.OutputFile) 中指定的值匹配。
+E:\visual_studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1575,5): warning MSB8012: TargetName(RVO) 与 Library 的 OutputFile 属性值(RVOD)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Lib.OutputFile) 中指定的值匹配。
+  RVO.vcxproj -> C:\Users\86155\Desktop\avoCode\RVO2\Debug\RVO.lib
+  找不到文件 - RVO.lib
+  复制了 0 个文件
+  C:\Users\86155\Desktop\avoCode\RVO2\src\RVOSimulator.h
+  复制了 1 个文件
+  C:\Users\86155\Desktop\avoCode\RVO2\src\Vector2.h
+  复制了 1 个文件
+  C:\Users\86155\Desktop\avoCode\RVO2\src\RVO.h
+  复制了 1 个文件

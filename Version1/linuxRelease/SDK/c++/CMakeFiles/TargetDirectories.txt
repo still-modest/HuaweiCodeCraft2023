@@ -1,0 +1,3 @@
+/home/slam/huawei/linuxRelease/SDK/c++/CMakeFiles/rebuild_cache.dir
+/home/slam/huawei/linuxRelease/SDK/c++/CMakeFiles/main.dir
+/home/slam/huawei/linuxRelease/SDK/c++/CMakeFiles/edit_cache.dir

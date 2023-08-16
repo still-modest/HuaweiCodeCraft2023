@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "iterator": "cpp",
+        "ratio": "cpp",
+        "*.tcc": "cpp",
+        "list": "cpp",
+        "random": "cpp",
+        "cmath": "cpp",
+        "bitset": "cpp",
+        "string_view": "cpp",
+        "vector": "cpp",
+        "string": "cpp"
+    }
+}

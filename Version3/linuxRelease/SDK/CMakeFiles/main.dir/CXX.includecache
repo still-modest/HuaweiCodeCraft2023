@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/slam/abcdhuawei/linuxRelease/SDK/System.h
+iostream
+-
+vector
+-
+string
+-
+sstream
+-
+cmath
+-
+stdio.h
+-
+algorithm
+-
+iomanip
+-
+
+/home/slam/abcdhuawei/linuxRelease/SDK/main.cpp
+iostream
+-
+System.h
+/home/slam/abcdhuawei/linuxRelease/SDK/System.h
+
